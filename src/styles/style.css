@@ -1,0 +1,30 @@
+.component-word-list {
+    text-align: center;
+    margin-top: 20%;
+}
+
+.component-word-list > .word-entry {
+  margin: 0 5px;
+  line-height: 70%;
+}
+
+.component-word-list > .word-entry.font-size-1 {
+  font-size: 1em;
+  color: blue;
+}
+.component-word-list > .word-entry.font-size-2 {
+  font-size: 2em;
+  color: green
+}
+.component-word-list > .word-entry.font-size-3 {
+  font-size: 3em;
+  color: red
+}
+
+.search-bar-component {
+  margin-top: 10%;
+}
+
+.search-bar-component input {
+  text-align: center;
+}
